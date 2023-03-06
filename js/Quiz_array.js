@@ -27,9 +27,5 @@ const Array = [
     ["Ivan Franco", "Nina Chubai", "Taras Shevchenko", "Vasyl Symonenko"],
     "Taras Shevchenko"
   ),
-  new Question(
-    "asd",
-    ["Ivan Franco", "Nina Chubai", "Taras Shevchenko", "Vasyl Symonenko"],
-    "Taras Shevchenko"
-  )
+  new Question()
 ];
